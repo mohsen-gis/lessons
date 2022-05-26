@@ -13,7 +13,6 @@ dependencies:
   - osmnx
   - mapclassify
   - mplleaflet
-  - spatialite
 
   - pip:
     - jupyter_contrib_nbextensions
@@ -27,5 +26,6 @@ dependencies:
     - pysal
     - textblob
     - wordcloud
+    - spatialite
       #- tensorflow
       #- mordecai
