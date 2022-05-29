@@ -4,29 +4,29 @@ channels:
 dependencies:
   - python
   - pip
-  - rise
-  - gdal
-  - fiona  
-  - rasterio
-  - pillow
-  - ipyleaflet
-  - osmnx
-  - mapclassify
-  - mplleaflet
+#   - rise
+#   - gdal
+#   - fiona  
+#   - rasterio
+#   - pillow
+#   - ipyleaflet
+#   - osmnx
+#   - mapclassify
+#   - mplleaflet
 
 
   - pip:
-    - jupyter_contrib_nbextensions
-    - utm
-    - matplotlib
-    - matplotlib_scalebar
-    - geopandas
-    - shapely
-    - folium
-    - earthpy
-    - pysal
-    - textblob
-    - wordcloud
+#     - jupyter_contrib_nbextensions
+#     - utm
+#     - matplotlib
+#     - matplotlib_scalebar
+#     - geopandas
+#     - shapely
+#     - folium
+#     - earthpy
+#     - pysal
+#     - textblob
+#     - wordcloud
 #     - spatialite
       #- tensorflow
       #- mordecai
