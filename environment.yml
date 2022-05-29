@@ -5,10 +5,8 @@ dependencies:
   - python
   - pip
 
-
-
   - pip:
-#     - jupyter_contrib_nbextensions
+    - jupyter_contrib_nbextensions
     - utm
     - matplotlib
     - matplotlib_scalebar
