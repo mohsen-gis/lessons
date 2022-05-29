@@ -10,9 +10,7 @@ dependencies:
   - rasterio
   - pillow
   - ipyleaflet
-  - osmnx
-  - mapclassify
-  - mplleaflet
+
 
   - pip:
     - jupyter_contrib_nbextensions
@@ -26,6 +24,9 @@ dependencies:
     - pysal
     - textblob
     - wordcloud
+    - osmnx
+    - mapclassify
+    - mplleaflet
 #     - spatialite
       #- tensorflow
       #- mordecai
