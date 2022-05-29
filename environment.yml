@@ -4,7 +4,15 @@ channels:
 dependencies:
   - python
   - pip
+  - rise
   - gdal
+  - fiona  
+  - rasterio
+  - pillow
+  - ipyleaflet
+  - osmnx
+  - mapclassify
+  - mplleaflet
 
   - pip:
     - jupyter_contrib_nbextensions
@@ -18,14 +26,5 @@ dependencies:
     - pysal
     - textblob
     - wordcloud
-    - spatialite
-    - rise
-    - fiona  
-    - rasterio
-    - pillow
-    - ipyleaflet
-    - osmnx
-    - mapclassify
-    - mplleaflet
       #- tensorflow
       #- mordecai
