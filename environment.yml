@@ -5,27 +5,27 @@ dependencies:
   - python
   - pip
   - rise
-  - gdal
-  - fiona  
-  - rasterio
-  - pillow
-  - ipyleaflet
-  - osmnx
-  - mapclassify
-  - mplleaflet
+#   - gdal
+#   - fiona  
+#   - rasterio
+#   - pillow
+#   - ipyleaflet
+#   - osmnx
+#   - mapclassify
+#   - mplleaflet
 
   - pip:
     - jupyter_contrib_nbextensions
-    - utm
-    - matplotlib
-    - matplotlib_scalebar
-    - geopandas
-    - shapely
-    - folium
-    - earthpy
-    - pysal
-    - textblob
-    - wordcloud
+#     - utm
+#     - matplotlib
+#     - matplotlib_scalebar
+#     - geopandas
+#     - shapely
+#     - folium
+#     - earthpy
+#     - pysal
+#     - textblob
+#     - wordcloud
 #     - spatialite
       #- tensorflow
       #- mordecai
