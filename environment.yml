@@ -1,10 +1,10 @@
 name: gisandbox
 channels:
-#   - conda-forge
+  - conda-forge
 dependencies:
-#   - python
-#   - pip
-#   - rise
+  - python
+  - pip
+  - rise
 #   - gdal
 #   - fiona  
 #   - rasterio
@@ -14,10 +14,10 @@ dependencies:
 #   - mapclassify
 #   - mplleaflet
 
-#   - pip:
+  - pip:
 #     - jupyter_contrib_nbextensions
 #     - utm
-#     - matplotlib
+    - matplotlib
 #     - matplotlib_scalebar
 #     - geopandas
 #     - shapely
