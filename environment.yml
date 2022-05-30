@@ -2,8 +2,8 @@ name: gisandbox
 channels:
 #   - conda-forge
 dependencies:
-  - python
-  - pip
+#   - python
+#   - pip
 #   - rise
 #   - gdal
 #   - fiona  
@@ -14,7 +14,7 @@ dependencies:
 #   - mapclassify
 #   - mplleaflet
 
-  - pip:
+#   - pip:
 #     - jupyter_contrib_nbextensions
 #     - utm
 #     - matplotlib
